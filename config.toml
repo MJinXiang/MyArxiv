@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 7
+limit_days = 30
 cache_url = "https://MJinXiang.github.io/MyArxiv/cache.json"
 
 [[sources]]
@@ -8,12 +8,12 @@ category = "cs.CL"
 title = "Computation and Language"
 
 [[sources]]
-limit = 150
+limit = 15
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
-limit = 150
+limit = 50
 category = "cs.IR"
 title = "Information Retrieval"
 
@@ -23,7 +23,7 @@ category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
-limit = 150
+limit = 50
 category = "cs.MM"
 title = "Multimedia"
 
